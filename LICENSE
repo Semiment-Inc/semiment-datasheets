@@ -1,1 +1,53 @@
+Semiment Datasheet License
+Copyright © 2026 Semiment, Inc. (赛卓电子). All rights reserved.
 
+This repository (the "Repository") contains technical documentation published by
+Semiment, Inc. ("Semiment"), including but not limited to product datasheets,
+specification sheets, and application notes (collectively, the "Materials").
+
+Grant of License
+Subject to the terms of this License, Semiment grants you a limited,
+non-exclusive, non-transferable, and revocable license to access, view, and
+download the Materials solely for your own reference, evaluation, and
+informational purposes in connection with Semiment products. This license does
+not grant you any other rights.
+
+Restrictions
+You shall not, without Semiment's prior written permission:
+(a) redistribute, republish, or make the Materials available to any third
+party by any means, including by mirroring, framing, or posting on other
+websites, repositories, or file-sharing services;
+(b) modify, adapt, translate, or create derivative works of the Materials;
+(c) use the Materials for any commercial purpose, including in connection with
+the design, manufacture, marketing, or sale of products not authorized by
+Semiment; or
+(d) remove or obscure any copyright, trademark, or other proprietary notices
+contained in the Materials.
+
+No Warranty
+The Materials are provided "AS IS" without warranty of any kind, express or
+implied, including but not limited to the implied warranties of
+merchantability, fitness for a particular purpose, and non-infringement. Semiment
+does not warrant that the Materials are accurate, complete, or current. Your use
+of the Materials is at your own risk. In no event shall Semiment be liable for
+any direct, indirect, incidental, or consequential damages arising out of your
+use of or inability to use the Materials.
+
+Trademarks
+All product names, logos, and trademarks referenced in the Materials are the
+property of Semiment or their respective owners. No license to any trademark is
+granted under this License.
+
+Termination
+This license terminates automatically if you breach any of its terms. Upon
+termination, you must cease all use of the Materials and delete any copies in
+your possession.
+
+Permissions
+To request permission for any use not permitted by this License, contact
+Semiment through the official website (https://www.semiment.com) or at
+legal@semiment.com.
+
+Governing Law
+This License is governed by the laws of the People's Republic of China, without
+regard to its conflict-of-laws principles.
